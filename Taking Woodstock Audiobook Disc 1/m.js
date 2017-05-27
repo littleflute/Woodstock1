@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Unknown Track 1.mp3";		
+f[2]	= "02 Unknown Track 2.mp3";		
+f[3]	= "03 Unknown Track 3.mp3";		
+f[4]	= "04 Unknown Track 4.mp3";		
+f[5]	= "05 Unknown Track 5.mp3";		
+f[6]	= "06 Unknown Track 6.mp3";		
+f[7]	= "07 Unknown Track 7.mp3";		
+f[8]	= "08 Unknown Track 8.mp3";		
+f[9]	= "09 Unknown Track 9.mp3";		
+f[10]	= "10 Unknown Track 10.mp3";		
+f[11]	= "11 Unknown Track 11.mp3";		
+f[12]	= "12 12.mp3";		
+f[13]	= "13 Unknown Track 13.mp3";		
+f[14]	= "14 Unknown Track 14.mp3";		
+f[15]	= "15 Unknown Track 15.mp3";		
